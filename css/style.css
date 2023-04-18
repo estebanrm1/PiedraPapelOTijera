@@ -29,3 +29,7 @@ main {
 #grupo-botones > button:hover{
     transform: scale(1.2);
 }
+
+table,td,tr {
+    border: 1px solid red;
+}
